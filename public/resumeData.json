@@ -1,0 +1,219 @@
+{
+  "main": {
+    "name": "Elijah Soladoye",
+    "occupation": "Fullstack Django | ReactJS Developer && UE4 Game Development Enthusiast",
+    "description": "Always learning how to build positively impacting, optimized and immersive stuff. #Mikaelson",
+    "image": "elijah.png",
+    "bio": "Hello, my name is Elijah Soladoye and I'm a full-stack developer with over four years of experience, proficient in the use of Django, React, and ReactNative, among other technologies, to build applications. I enjoy solving problems, improving customer satisfaction, and collaborating with other developers, and I'm always eager to learn more. I believe to be a perfect fit for the position and hope to be able to contribute to you by utilizing my talents.",
+    "contactmessage": "Get in touch with me to to build amazing and impacting stuff, I mean, who doesn't love a good challenge right?, so don't hold back.",
+    "email": "elijahsoladoye@rocketmail.com",
+    "phone": "+234 909 345 5544",
+    "address": {
+      "street": "",
+      "city": "Nigeria",
+      "state": "",
+      "zip": ""
+    },
+    "website": "#",
+    "resumedownload": "https://drive.google.com/file/d/1ca9PrD9tyoJA2i7GoKVK91u9qfTXTTfz/view?usp=share_link",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/elijah.soladoye/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/elijah-soladoye-2b99b11b5",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/elijahsoladoye/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shodown96/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are some of the skills I got to pick up.",
+    "education": [
+      {
+        "school": "Landmark University, Omu-Aran",
+        "degree": "BSc in Computer Science",
+        "graduated": "2022",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "RD Land",
+        "title": "Frontend Engineer",
+        "years": "August 2022 — April 2023",
+        "description": "I had the opportunity to work on two projects for this company; The NFT marketplace application and the primary application used for purchasing tickets, displaying events, and containing the user dashboard. I refactored and optimized the codebase and improved a lot of features e.g SSO authentication, state managemnt system, etc "
+      },
+      {
+        "company": "Adoyen",
+        "title": "Full-stack Mobile Engineer",
+        "years": "September 2022 — January 2023",
+        "description": "I assisted in the development of a mobile application that serves as a social media platform for investors."
+      },
+      {
+        "company": "Freelance Contract for the Lagos state Governor",
+        "title": "Mobile Developer",
+        "years": "June 2021",
+        "description": "I built a expo-native app for a personal function. This app was built for both ios and android."
+      },
+      {
+        "company": "LMU Chaplaincy",
+        "title": "Fullstack web developer",
+        "years": "April 2019 — August 2020",
+        "description": "I built a fullstack web application having freatures like newsletters, announcements and advertisements."
+      },
+      {
+        "company": "PLUV Foundation",
+        "title": "Fullstack web developer",
+        "years": "July 2018 — November 2019",
+        "description": "I built a fullstack web application featuring Django, JQuery, Bootstrap, analytics, functional payment system, marketing and email campaigns, authentication and CRUD operations."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Django"
+      },
+      {
+        "name": "NodeJS"
+      },
+      {
+        "name": "Next"
+      },
+      {
+        "name": "Angular"
+      },
+      {
+        "name": "React"
+      },
+      {
+        "name": "ReactNative"
+      },
+      {
+        "name": "Typescript"
+      },
+      {
+        "name": "Git"
+      },
+      {
+        "name": "Firebase"
+      },
+      {
+        "name": "AWS"
+      },
+      {
+        "name": "Heroku"
+      },
+      {
+        "name": "PostgreSQL"
+      },
+      {
+        "name": "MongoDB"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "VoteChain | Voting Dapp",
+        "category": "A Voting Dapp built with solidarity and NextJS, an app that runs on ethereum blockchain technology.",
+        "image": "votechain.png",
+        "url": "https://voting-dapp.vercel.app/login"
+      },
+      {
+        "title": "OrderIt",
+        "category": "A Food Menu and Ordering system targetted for restaurants whereby orders and menus can be managed effectively. Made with Django and React",
+        "image": "orderit.png",
+        "url": "http://orderit-lmu.vercel.app/"
+      },
+      {
+        "title": "RD Land",
+        "category": "RD Land is the next-generation of progressive arts and entertainment, radical self-expression, social interactions, and virtual relationships in web 3.0.",
+        "image": "rdland.png",
+        "url": "https://mobile.rdland.io/"
+      },
+      {
+        "title": "Spotify Clone",
+        "category": "Spotify clone built with ReactJS using spotify's API. You can't play song's due to my account not being premium",
+        "image": "spotify.png",
+        "url": "https://spotify-clone-phi.vercel.app/"
+      },
+      {
+        "title": "Discord Clone",
+        "category": "Discord clone built with the MERN stack",
+        "image": "discord.png",
+        "url": "https://discord-clone-b6582.web.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS featuring Functional components, Hooks, Context API, Firebase and Firestore",
+        "image": "amazon.png",
+        "url": "https://clone-3f488.web.app/"
+      },
+      {
+        "title": "Covid-19 Tracker",
+        "category": "A single page app showing records of covid-19 cases around the world featuring ReactJS",
+        "image": "covid-19.png",
+        "url": "https://covid-19-tracker-b3746.web.app/"
+      },
+      {
+        "title": "MarioPlan",
+        "category": "My first deployed app built with ReactJS featuring Redux, Firebase and Firestore",
+        "image": "marioplan.png",
+        "url": "https://firstreact-a1409.web.app/"
+      },
+
+      {
+        "title": "Django | React Ecommerce",
+        "category": "A django-react Ecommerce app featuring authentication, Cart functionality and Payment systems.",
+        "image": "djr-ecommerce.png",
+        "url": "https://djr-ecommerce.herokuapp.com"
+      },
+      {
+        "title": "PLUV Foundation",
+        "category": "An actual work in progress for a client, An NGO Website",
+        "image": "pluv.png",
+        "url": "https://pluvfoundation.herokuapp.com"
+      },
+      {
+        "title": "Voting App",
+        "category": "Voting Website built with Django featuring Chart.js",
+        "image": "lmuvote.png",
+        "url": "https://lmuvote.herokuapp.com"
+      },
+      {
+        "title": "Django | React Blog",
+        "category": "A simple django-react blog app featuring authentication and CRUD operations using DRF, axios and redux",
+        "image": "djr-blog.png",
+        "url": "https://djr-blog.herokuapp.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them.",
+        "user": "Andrew Hunt"
+      },
+      {
+        "text": "Study without desire spoils the memory, and it retains nothing that it takes in.",
+        "user": "Leonardo da Vinci"
+      },
+      {
+        "text": "The most damaging phrase in the language is.. it's always been done this way",
+        "user": "Grace Hopper"
+      }
+    ]
+  }
+}
