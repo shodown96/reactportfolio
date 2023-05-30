@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Elijah Soladoye",
-    "occupation": "Fullstack Django | ReactJS Developer && UE4 Game Development Enthusiast",
-    "description": "Always learning how to build positively impacting, optimized and immersive stuff. #Mikaelson",
+    "occupation": "Fullstack Engineer",
+    "description": "I'm always ready to build optimized and secure applications that solve problems for you",
     "image": "elijah.png",
-    "bio": "Hello, my name is Elijah Soladoye and I'm a full-stack developer with over four years of experience, proficient in the use of Django, React, and ReactNative, among other technologies, to build applications. I enjoy solving problems, improving customer satisfaction, and collaborating with other developers, and I'm always eager to learn more. I believe to be a perfect fit for the position and hope to be able to contribute to you by utilizing my talents.",
+    "bio": "Hello, my name is Elijah Soladoye and I'm a full-stack developer with over four years of experience, proficient in the use of Django, React, and ReactNative, among other technologies, to build applications. I enjoy solving problems, improving customer satisfaction, and collaborating with other developers, and I'm always eager to learn more.",
     "contactmessage": "Get in touch with me to to build amazing and impacting stuff, I mean, who doesn't love a good challenge right?, so don't hold back.",
     "email": "elijahsoladoye@rocketmail.com",
     "phone": "+234 909 345 5544",
@@ -66,13 +66,13 @@
         "company": "Freelance Contract for the Lagos state Governor",
         "title": "Mobile Developer",
         "years": "June 2021",
-        "description": "I built a expo-native app for a personal function. This app was built for both ios and android."
+        "description": "I built an application for a personal function. This app was built for both ios and android. I was able to prevent the installation of unnecessary additional equipments."
       },
       {
         "company": "LMU Chaplaincy",
         "title": "Fullstack web developer",
         "years": "April 2019 — August 2020",
-        "description": "I built a fullstack web application having freatures like newsletters, announcements and advertisements."
+        "description": "I built a fullstack web application having features like newsletters, announcements and advertisements."
       },
       {
         "company": "PLUV Foundation",
