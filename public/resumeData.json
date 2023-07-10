@@ -2,12 +2,12 @@
   "main": {
     "name": "Elijah Soladoye",
     "occupation": "Fullstack Engineer",
-    "description": "I'm always ready to build optimized and secure applications that solve problems for you",
+    "description": ", and I'm ready to build secure and optimized applications that solve your problems.",
     "image": "elijah.png",
-    "bio": "Hello, my name is Elijah Soladoye and I'm a full-stack developer with over four years of experience, proficient in the use of Django, React, and ReactNative, among other technologies, to build applications. I enjoy solving problems, improving customer satisfaction, and collaborating with other developers, and I'm always eager to learn more.",
+    "bio": "Hello, my name is Elijah Soladoye and I'm a fullstack developer with over four years of experience, proficient in the use of Django, React, Next, and ReactNative, among other technologies, to build applications. I enjoy solving problems, improving customer satisfaction, and collaborating with other developers, and I'm always eager to learn more.",
     "contactmessage": "Get in touch with me to to build amazing and impacting stuff, I mean, who doesn't love a good challenge right?, so don't hold back.",
     "email": "elijahsoladoye@rocketmail.com",
-    "phone": "+234 909 345 5544",
+    "phone": "",
     "address": {
       "street": "",
       "city": "Nigeria",
@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "#",
-    "resumedownload": "https://drive.google.com/file/d/1ca9PrD9tyoJA2i7GoKVK91u9qfTXTTfz/view?usp=share_link",
+    "resumedownload": "https://drive.google.com/file/d/1gop_UqO7XNHGcR0MfRYD3CbWbvlx0rVG/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -45,7 +45,7 @@
       {
         "school": "Landmark University, Omu-Aran",
         "degree": "BSc in Computer Science",
-        "graduated": "2022",
+        "graduated": "",
         "description": ""
       }
     ],
@@ -54,31 +54,31 @@
         "company": "RD Land",
         "title": "Frontend Engineer",
         "years": "August 2022 — April 2023",
-        "description": "I had the opportunity to work on two projects for this company; The NFT marketplace application and the primary application used for purchasing tickets, displaying events, and containing the user dashboard. I refactored and optimized the codebase and improved a lot of features e.g SSO authentication, state managemnt system, etc "
+        "description": "I had the privilege of undertaking signizcant roles in two pivotal projects for this organization the development of an NFT marketplace application and the primary application dedicated to ticket purchasing, event display, and user dashboard functionality."
       },
       {
         "company": "Adoyen",
-        "title": "Full-stack Mobile Engineer",
+        "title": "Fullstack Mobile Engineer",
         "years": "September 2022 — January 2023",
-        "description": "I assisted in the development of a mobile application that serves as a social media platform for investors."
+        "description": "I played a key role in the development of a groundbreaking platform that merges real estate investment with social media. My contributions spanned across both frontend and backend aspects, encompassing the implementation of several notable features."
       },
       {
         "company": "Freelance Contract for the Lagos state Governor",
         "title": "Mobile Developer",
         "years": "June 2021",
-        "description": "I built an application for a personal function. This app was built for both ios and android. I was able to prevent the installation of unnecessary additional equipments."
+        "description": "I developed a mobile application for the governorMs personal use, which I successfully built to run on both Android and i'S devices. The app was created using the powerful combination of React Native and Typescript, leveraging the unique strengths of these technologies."
       },
       {
         "company": "LMU Chaplaincy",
-        "title": "Fullstack web developer",
+        "title": "Fullstack Web Developer",
         "years": "April 2019 — August 2020",
-        "description": "I built a fullstack web application having features like newsletters, announcements and advertisements."
+        "description": "I built an application that simplifies the advertising and registration process for the chapel's service units. This streamlined system saves time and effort by enabling easy access to service information and effortless registration."
       },
       {
         "company": "PLUV Foundation",
-        "title": "Fullstack web developer",
+        "title": "Fullstack Web Developer",
         "years": "July 2018 — November 2019",
-        "description": "I built a fullstack web application featuring Django, JQuery, Bootstrap, analytics, functional payment system, marketing and email campaigns, authentication and CRUD operations."
+        "description": "I developed an application that simplizes the advertising and registration process for the chapelMs service units. This streamlined system saves time and effort by enabling easy access to service information and effortless registration."
       }
     ],
     "skills": [
